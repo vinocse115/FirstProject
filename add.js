@@ -4,7 +4,7 @@ const add = () => {
   return (
     <>
     <div>update</div>
-    <p>Hai makka how are yoou</p> 
+    <p>Hai makka how are yooujjjjj</p> 
     </>
   )
 }
